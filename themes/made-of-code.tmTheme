@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>comment</key>
+	<string>mkdynamic</string>
 	<key>name</key>
 	<string>Made of Code</string>
 	<key>settings</key>
@@ -10,13 +12,13 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#2c384b</string>
+				<string>#090A1BF2</string>
 				<key>caret</key>
 				<string>#00FFFF</string>
 				<key>foreground</key>
 				<string>#F8F8F8</string>
 				<key>invisibles</key>
-				<string>#282A32</string>
+				<string>#CAE2FB3D</string>
 				<key>lineHighlight</key>
 				<string>#00000000</string>
 				<key>selection</key>
@@ -31,11 +33,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#00000000</string>
+				<string>#000000</string>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
 				<key>foreground</key>
-				<string>#AF60D0</string>
+				<string>#C050C2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -48,7 +50,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3BFFBC</string>
+				<string>#0A9CFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -128,7 +130,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#239CFF</string>
+				<string>#588AFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -139,7 +141,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>underline</string>
+				<string>italic underline</string>
 				<key>foreground</key>
 				<string>#FD5FF1</string>
 			</dict>
@@ -167,7 +169,7 @@
 			<key>name</key>
 			<string>♦ Embedded Source (Bright)</string>
 			<key>scope</key>
-			<string>text source, meta.embedded</string>
+			<string>text source</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
@@ -184,7 +186,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#FF9749</string>
 			</dict>
@@ -269,7 +271,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFA454</string>
+				<string>#CF6A4C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -313,7 +315,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#676767</string>
 			</dict>
@@ -491,7 +493,7 @@
 				<key>background</key>
 				<string>#00184F</string>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#F8F8F8</string>
 			</dict>
@@ -551,7 +553,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#E9C062</string>
 			</dict>
@@ -592,7 +594,7 @@
 				<key>background</key>
 				<string>#FEE09C12</string>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#E1D4B9</string>
 			</dict>
@@ -646,7 +648,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#F67B37</string>
 			</dict>
